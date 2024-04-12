@@ -25,6 +25,7 @@ Hello, my name is Gustavo Riegert and I am a student at [PUC Minas]([https://eec
 ![Salesforce](https://img.shields.io/badge/-Salesforce-black?logo=salesforce&style=social)&nbsp;&nbsp;
 ![SOQL](https://img.shields.io/badge/-SOQL-black?logo=salesforce&style=social)&nbsp;&nbsp;
 ![CSharp](https://img.shields.io/badge/-CSharp-black?logo=csharp&style=social)&nbsp;&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-black?logo=typescript&style=social)&nbsp;&nbsp;
 
 ![Gustavo's Github Stats](https://github-readme-stats.vercel.app/api?username=GustavoRiegert&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRiegert&hide=TeX&layout=compact)
